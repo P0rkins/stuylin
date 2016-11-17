@@ -1,0 +1,24 @@
+body{
+    background-color: blue;
+    color: green;
+    text-align: left;
+    font-family: "Comic Sans MS",cursive,sans-serif;
+}
+
+h1{
+    text-align: right;
+    color: tomato;
+}
+
+li{
+    text-align: center;
+}
+
+h3{
+    font-size: 6em;
+    text-shadow: 8px 8px red;
+}
+
+h2{
+    color: blue;
+}
