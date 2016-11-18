@@ -22,3 +22,13 @@ h3{
 h2{
     color: blue;
 }
+
+.content{
+    background-color: blue;
+    font-size: 14em;
+}
+
+.extreme{
+    background-color: yellow;
+    color: black;
+}
